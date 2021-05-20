@@ -31,7 +31,7 @@ Add this to your gradle file and sync. See [CHANGELOG](https://github.com/hbb20/
 
   ````groovy
           dependencies {
-            implementation 'com.hbb20:ccp:X.Y.Z'
+            implementation 'com.github.EmadAnwer:CountryCodePickerProject:2.5.0'
           }
    ````
    ![MavenCentral](https://maven-badges.herokuapp.com/maven-central/com.hbb20/ccp/badge.svg)
